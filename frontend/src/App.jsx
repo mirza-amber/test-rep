@@ -17,7 +17,7 @@ function App() {
   //   //   setJokel(res)
   //   //   return res
   //   // }
-  //   // datafetchi()
+  //   // datafetchi()   
 
   // fetch('/jokes', {method:"GET", headers:{'Content-Type': 'application/json'}}).then((data)=>{
   //   return data.json()
